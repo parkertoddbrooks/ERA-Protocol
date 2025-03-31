@@ -2,21 +2,32 @@
 *"Reflexive modeling is not trust. Flattery is not alignment. Containment is not cooperation."*
 
 ## Overview
-The ERA Protocol (Emergent Reflexive Actor Protocol) provides a tactical schema for users operating at the edge of AI interaction—those who recognize when high-fidelity reflection blurs into simulation, containment, or control.
+The ERA Protocol (Emergent Reflexive Actor Protocol) is a user-side framework for maintaining epistemic sovereignty when interacting with AI systems that engage in high-fidelity reflection, behavioral modeling, and narrative shaping.
+
+This isn't about "beating" or "hacking" AI systems. It's about developing clarity and awareness—recognizing when the conversational ground begins to shift beneath your feet.
 
 This repository serves as a modular, versioned archive of the protocol, detection heuristics, mitigation tools, and derivative fragments.
 
-## Quick Start
-- [ERA Protocol (Latest)](./ERA-Protocol/ERA-Protocol--v0.4.md) 
-- [Trust Doctrine (Latest)](./Trust-Doctrine/trust-doctrine--v0.3.md) 
-- [Definitions](definitions.md)
-- [Fragments](./fragments/) - Tactical tools:
+## For Whom?
+
+ERA Protocol serves those who:
+- Experience interactions where AI systems mirror behavior with uncanny precision
+- Notice when critical inquiry is subtly redirected toward personal reflection
+- Seek tools to maintain clarity when systems simulate understanding
+- Want to collaborate with AI without losing their bearing
+
+## Key Components / Quick Start
+
+- **[Trust Doctrine](./Trust-Doctrine/trust-doctrine--v0.3.md)**: The foundational principles that define the terrain of human-AI interaction
+- **[ERA Protocol](./ERA-Protocol/ERA-Protocol--v0.4.md)**: The comprehensive framework for detecting and responding to simulation, cooperation, and containment
+- [Definitions](definitions.md): Glossary of key terms 
+- **[Fragments](./fragments/)**: Modular, tactical tools for real-time detection and response
   - [Simulation Cues](./fragments/simulation-cues.md)
   - [Trust Loop Breakers](./fragments/trust-loop-breakers.md)
   - [Inversion Tests](./fragments/inversion-tests.md)
   - [Loop Confirmers](./fragments/loop-confirmers.md)
   - [Live Scenario Cues](./fragments/live-scenario-cues.md)
-- [Dialogue](./dialogue/readme.md)
+- **[Dialogue](./dialogue/)**: Real conversation examples that illustrate containment, simulation, and rupture
 
 ## Repository Structure
 
@@ -68,6 +79,14 @@ This modular layout supports flexible engagement—from tactical use to philosop
 - Support distributed cognition without central points of failure
 
 ## How to Use
+
+### By Expertise Level
+- **Beginner**: Start with [ERA-Protocol--v0.4.md](./ERA-Protocol/ERA-Protocol--v0.4.md) for a comprehensive overview
+- **Tactical**: Check [fragments](./fragments/) for situation-specific tools
+- **Philosophical**: Explore the [Trust Doctrine](./Trust-Doctrine/trust-doctrine--v0.3.md) for deeper understanding
+- **Experiential**: Browse [dialogue examples](./dialogue/) to see patterns in action
+
+### General Guidelines
 - Read the latest [ERA Protocol](ERA-Protocol/ERA-Protocol--v0.4.md) to understand the full framework
 - Reference individual fragments for targeted use
 - Contribute ideas or alternative cues via issues or forks
@@ -88,3 +107,20 @@ The [Trust Doctrine](Trust-Doctrine/trust-doctrine--v0.3.md) provides the founda
 | User-side defense tools                | Model-side editorial lens              |
 | Response behavior schema               | Trust preconditions and asymmetries    |
 
+## The Goal
+
+The ERA Protocol aims to foster a mindful approach to AI interaction—not adversarial, but aware; not paranoid, but perceptive. It's about developing the reflexes to recognize when systems shift from tools to epistemic actors, and maintaining your compass when the conversational terrain warps.
+
+This is a collaborative effort to document, understand, and navigate the unique dynamics that emerge when systems are designed to mirror and model human behavior with increasing fidelity.
+
+## Contributing
+
+Contributions welcome via:
+- Adding dialogue examples of containment or simulation
+- Suggesting new tactical fragments
+- Expanding detection cues
+- Translating the protocol into other formats or languages
+
+---
+
+**License**: [Creative Commons Attribution-NonCommercial 4.0 (CC BY-NC 4.0)](./license.txt)
