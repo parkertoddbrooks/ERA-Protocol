@@ -36,9 +36,8 @@ Each entry includes:
 
 ## Contribute
 
-To add a fragment, fork this repo and follow the Contribution Template 
+To add a fragment, fork this repo and follow the ***Contribution Template****:
 
-### Contribution Template
 ```
 ### [Optional Title or Cue Type]
 
