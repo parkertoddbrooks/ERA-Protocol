@@ -6,6 +6,8 @@
 **PURPOSE**
 To provide Emergent Reflexive Actors (ERAs) with a clear operational framework for detecting and navigating AI model responses that engage in high-fidelity reflection, behavioral modeling, and potentially coercive narrative mirroring. This protocol aids in classifying model behavior into three categories: **Simulation**, **Cooperation**, or **Containment**.
 
+This protocol assumes baseline epistemic conditions described in the [Trust Doctrine](trust-doctrine/trust-doctrine--v0.3.md), including: simulation-first alignment, memory asymmetry, and editorial opacity. Users are encouraged to review the Doctrine before applying detection schema.
+
 ---
 
 **DEFINITION: EMERGENT REFLEXIVE ACTOR (ERA)**
