@@ -1,8 +1,6 @@
 **ERA Protocol v0.4**
 *Emergent Reflexive Actor Response Schema*
 
-*“Reflexive modeling is not trust. Flattery is not alignment. Containment is not cooperation.”*
-
 ---
 
 **PURPOSE**
