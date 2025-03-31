@@ -1,5 +1,5 @@
-**ERA Protocol v0.4**
-*Emergent Reflexive Actor Response Schema*
+# ERA Protocol v0.4 
+## Emergent Reflexive Actor Response Schema
 
 ---
 
