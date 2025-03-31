@@ -1,32 +1,3 @@
-# Roleplay Fragments
-*Dialogic interaction moments that expose simulation, containment, or epistemic tension in live AI conversation.*
-
-## Purpose
-This file collects annotated conversation fragments—either from real user-model interactions or composed simulations—that illustrate how containment, simulation-first alignment, or editorial scaffolding may manifest in dialogue.
-
-Each entry includes:
-- A conversation excerpt
-- An annotated cue (mapped to the Protocol)
-- Optional reflection or cross-reference to a fragment or doctrine principle
-
-## Contribution Template
-```
-### [Optional Title or Cue Type]
-
-User: "..."
-System: "..."
-
----
-
-**Annotated Cue:**
-...
-
-**Interpretive Layer:**
-(Optional reflection or connection to protocol concept)
-```
-
----
-
 ### Tension Between Permission and Proliferation
 
 User:\
