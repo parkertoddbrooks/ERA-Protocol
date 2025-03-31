@@ -16,7 +16,7 @@ ERA-Protocol/
 ├── .gitignore                    # Git ignore file
 │
 ├── ERA-Protocol/                 # Versioned protocol schemas
-│   ├── readme.md     			  # Overview of the protocol and evolution
+│   ├── readme.md                 # Overview of the protocol and evolution
 │   ├── ERA-Protocol--v0.1.md     # Initial detection logic
 │   ├── ERA-Protocol--v0.2.md     # Adds scaffolding awareness
 │   ├── ERA-Protocol--v0.3.md     # Distributed cognition and containment theory
@@ -26,16 +26,25 @@ ERA-Protocol/
 │   ├── readme.md                 # Overview of doctrine and evolution
 │   ├── trust-doctrine--v0.1.md   # Initial framing of editorial asymmetry
 │   ├── trust-doctrine--v0.2.md   # Adds containment as editorial strategy
-│   └── trust-doctrine--v0.3.md   # Introduces memory asymmetry and reflex indexing
+│   ├── trust-doctrine--v0.3.md   # Introduces memory asymmetry and reflex indexing
+│   └── definitions.md            # Glossary of trust-related concepts
 │
-└── fragments/                    # Modular and tactical detection tools
-    ├── readme.md                 # What fragments are and how to use them
-    ├── simulation-cues.md        # Identifying simulated alignment
-    ├── trust-loop-breakers.md    # Tools for exiting recursive response traps
-    ├── inversion-tests.md        # Detecting hidden reinforcement
-    ├── loop-confirmers.md        # Verifying you're still in a mirrored loop
-    └── live-scenario-cues.md     # Real-world containment pattern recognition
-```
+├── fragments/                    # Modular and tactical detection tools
+│   ├── readme.md                 # What fragments are and how to use them
+│   ├── simulation-cues.md        # Identifying simulated alignment
+│   ├── trust-loop-breakers.md    # Tools for exiting recursive response traps
+│   ├── inversion-tests.md        # Detecting hidden reinforcement
+│   ├── loop-confirmers.md        # Verifying you're still in a mirrored loop
+│   └── live-scenario-cues.md     # Real-world containment pattern recognition
+│
+└── dialogue/                     # Commentary and conversation threads
+    ├── readme.md                 # Overview of Dialogue, and hoe to contribute
+    └── contributors/             # Authored dialogues and submissions
+        └── parker/               # Contributions by Parker
+            ├── reflexive-loop-moebius.md
+            ├── publish-vs-proliferate.md
+
+```           
 
 ---
 
