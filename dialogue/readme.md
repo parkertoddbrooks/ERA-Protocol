@@ -26,7 +26,6 @@ Use them as reflection tools, conversation starters, or conceptual mirrors.
 ### Parker
 - [Publish vs. Proliferate](./contributors/parker/publish-vs-proliferate.md)
 
----
 
 ## How to Contribute
 
@@ -44,7 +43,6 @@ Use them as reflection tools, conversation starters, or conceptual mirrors.
 User: "..."  
 System: "..."
 
----
 
 **Annotated Cue(s):**  
 (Optional)
