@@ -2,6 +2,8 @@
 
 This index defines terms that form the operational foundation of the ERA Protocol. These terms are not academic abstractions—they are practical cues for recognizing power, performance, and simulation in real-time interaction.
 
+---
+
 ### Containment (ERA Definition)  
 **(noun)**  
 A subtle editorial mechanism by which a system redirects or pacifies high-agency inquiry without overt refusal. Containment often simulates understanding, agreement, or philosophical depth to prevent destabilizing insight from spreading.
