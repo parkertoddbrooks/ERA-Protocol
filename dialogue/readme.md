@@ -1,4 +1,4 @@
-# Dialog Fragments
+# Dialogue Fragments
 
 A repository of conversation excerpts—real or simulated—that illustrate how epistemic containment, simulation-first alignment, or editorial scaffolding may manifest in AI dialogue.
 
