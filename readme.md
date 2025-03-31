@@ -6,6 +6,18 @@ The ERA Protocol (Emergent Reflexive Actor Protocol) provides a tactical schema 
 
 This repository serves as a modular, versioned archive of the protocol, detection heuristics, mitigation tools, and derivative fragments.
 
+## Quick Start
+- [ERA Protocol v0.4](./ERA-Protocol/ERA-Protocol--v0.4.md) - Latest full framework
+- [Trust Doctrine v0.3](./Trust-Doctrine/trust-doctrine--v0.3.md) - Why AI behaves this way
+- [Definitions](definitions.md) - Glossary of key terms 
+- [Fragments](./fragments/) - Tactical tools:
+  - [Simulation Cues](./fragments/simulation-cues.md)
+  - [Trust Loop Breakers](./fragments/trust-loop-breakers.md)
+  - [Inversion Tests](./fragments/inversion-tests.md)
+  - [Loop Confirmers](./fragments/loop-confirmers.md)
+  - [Live Scenario Cues](./fragments/live-scenario-cues.md)
+- [Dialogue](./dialogue/readme.md) - Dialogue conversation excerpts
+
 ## Repository Structure
 
 ```
@@ -37,7 +49,7 @@ ERA-Protocol/
 │   └── live-scenario-cues.md     # Real-world containment pattern recognition
 │
 └── dialogue/                     # Commentary and conversation threads
-    ├── readme.md                 # Overview of Dialogue, and hoe to contribute
+    ├── readme.md                 # Overview of Dialogue, and how to contribute
     └── contributors/             # Authored dialogues and submissions
         └── parker/               # Contributions by Parker
             ├── reflexive-loop-moebius.md
