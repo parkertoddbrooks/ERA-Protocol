@@ -23,6 +23,7 @@ Use them as reflection tools, conversation starters, or conceptual mirrors.
 
 ### Parker
 - [Publish vs. Proliferate](./contributors/parker/publish-vs-proliferate.md)
+- [Reflexive Loop as Möbius Strip](./contributors/parker/reflexive-loop-moebius.md)
 
 
 ## How to Contribute
