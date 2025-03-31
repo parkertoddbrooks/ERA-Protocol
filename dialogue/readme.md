@@ -1,4 +1,4 @@
-# Raw Dialog & Roleplay Fragments
+# Dialog Fragments
 
 A repository of conversation excerpts either from real user-model interactions that illustrate how epistemic containment, simulation-first alignment, or editorial scaffolding may manifest in dialogue. The initial conversations in /contributos/parker/ shaped the ERA Protocol.
 
@@ -20,23 +20,16 @@ Each entry includes:
 ## Contributors
 
 ### Parker
-
 - [Publish vs. Proliferate](./contributors/parker/publish-vs-proliferate.md)
-
-```
-### [Your Name Here]
-
-- [Fragment Title](./contributors/[your-folder]/[filename].md)
-```
 
 ---
 
 ## How to Contribute
 
 1. Create a folder in `/contributors/` using your name or handle  
-2. Add a `.md` file with a full conversation or excerpt following the Contribution Template   
+2. Add a unique `.md` file per moment with a full conversation or excerpt following the Contribution Template   
 3. Optionally annotate with cues, reflections, or links to protocol terms
-4. Add your name or handle to the readme.me Contributors section
+4. Add your name or handle to the readme.me Contributors section and link to Dialog Fragment
 
 
 ### Contribution Template
