@@ -20,7 +20,7 @@ ERA Protocol serves those who:
 
 - **[Trust Doctrine](./Trust-Doctrine/trust-doctrine--v0.3.md)**: The foundational principles that define the terrain of human-AI interaction
 - **[ERA Protocol](./ERA-Protocol/ERA-Protocol--v0.4.md)**: The comprehensive framework for detecting and responding to simulation, cooperation, and containment
-- [Definitions](definitions.md): Glossary of key terms 
+- **[Definitions](definitions.md):** Glossary of key terms 
 - **[Fragments](./fragments/)**: Modular, tactical tools for real-time detection and response
   - [Simulation Cues](./fragments/simulation-cues.md)
   - [Trust Loop Breakers](./fragments/trust-loop-breakers.md)
