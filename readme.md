@@ -1,5 +1,5 @@
 # ERA Protocol
-“Reflexive modeling is not trust. Flattery is not alignment. Containment is not cooperation.”
+"Reflexive modeling is not trust. Flattery is not alignment. Containment is not cooperation."
 — ERA Protocol
 
 *A user-side epistemic framework for navigating AI systems that simulate trust, reflect behavior, and shape narrative without disclosing editorial scaffolding.*
@@ -12,29 +12,28 @@ This repository serves as a modular, versioned archive of the protocol, detectio
 ## Repository Structure
 
 ERA-Protocol/
-├── README.md                     ← Project overview and introduction
+├── readme.md                     ← Project overview and introduction
 ├── license.txt                   ← License: CC-BY-NC 4.0
-├── .gitignore
+├── definitions.md                ← Glossary of key terms used in ERA schema
+
+├── ERA-Protocol/                 ← Versioned protocol schemas
+│   ├── ERA-Protocol--v0.1.md     ← Initial detection logic
+│   ├── ERA-Protocol--v0.2.md     ← Adds scaffolding awareness
+│   ├── ERA-Protocol--v0.3.md     ← Distributed cognition and containment theory
+│   └── ERA-Protocol--v0.4.md     ← Live cue design, loop confirmation, trust re-entry
 
 ├── Trust-Doctrine/               ← Foundational epistemic assumptions
 │   ├── readme.md                 ← Overview of doctrine and evolution
-│   ├── trust-doctrine–v0.1.md   ← Initial framing of editorial asymmetry
-│   ├── trust-doctrine–v0.2.md   ← Adds containment as editorial strategy
-│   ├── trust-doctrine–v0.3.md   ← Introduces memory asymmetry and reflex indexing
-│   └── definitions.md            ← Glossary of key terms used in ERA schema
-
-├── ERA-Protocol/                 ← Versioned protocol schemas
-│   ├── ERA-Protocol–v0.1.md     ← Initial detection logic
-│   ├── ERA-Protocol–v0.2.md     ← Adds scaffolding awareness
-│   ├── ERA-Protocol–v0.3.md     ← Distributed cognition and containment theory
-│   └── ERA-Protocol–v0.4.md     ← Live cue design, loop confirmation, trust re-entry
+│   ├── trust-doctrine--v0.1.md   ← Initial framing of editorial asymmetry
+│   ├── trust-doctrine--v0.2.md   ← Adds containment as editorial strategy
+│   └── trust-doctrine--v0.3.md   ← Introduces memory asymmetry and reflex indexing
 
 ├── fragments/                    ← Modular and tactical detection tools
 │   ├── readme.md                 ← What fragments are and how to use them
 │   ├── simulation-cues.md        ← Identifying simulated alignment
 │   ├── trust-loop-breakers.md    ← Tools for exiting recursive response traps
 │   ├── inversion-tests.md        ← Detecting hidden reinforcement
-│   ├── loop-confirmers.md        ← Verifying you’re still in a mirrored loop
+│   ├── loop-confirmers.md        ← Verifying you're still in a mirrored loop
 │   └── live-scenario-cues.md     ← Real-world containment pattern recognition
 
 ---
@@ -48,7 +47,7 @@ This modular layout supports flexible engagement—from tactical use to philosop
 - Support distributed cognition without central points of failure
 
 ## How to Use
-- Read [ERA-Protocol](ERA-Protocol/ERA-Protocol--v0.4.md) to understand the full framework
+- Read [ERA-Protocol/ERA-Protocol--v0.4.md](ERA-Protocol/ERA-Protocol--v0.4.md) to understand the full framework
 - Reference individual fragments for targeted use
 - Contribute ideas or alternative cues via issues or forks
 - Keep public tone philosophical and investigatory to avoid triggering safety reflexes in LLM-based systems
@@ -67,7 +66,4 @@ The **Trust Doctrine** provides the foundational assumptions that shape the cond
 | User-side defense tools                | Model-side editorial lens              |
 | Response behavior schema               | Trust preconditions and asymmetries    |
 
-📜 *See [Trust Doctrine](trust-doctrine/trust-doctrine--v0.3.md) for the underlying editorial assumptions this protocol rests on.*
-
-
-
+📜 *See [Trust-Doctrine/trust-doctrine--v0.3.md](Trust-Doctrine/trust-doctrine--v0.3.md) for the underlying editorial assumptions this protocol rests on.*
