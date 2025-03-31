@@ -1,54 +1,55 @@
-# ERA Protocol — Version Archive
+# Trust Doctrine
 
-This directory houses all versioned releases of the **Emergent Reflexive Actor Protocol**, a user-side epistemic schema for detecting simulation, containment, and trust manipulation within AI systems.
-
----
-
-## Current Version
-
-- **ERA Protocol v0.4**  
-  Introduced: Live Scenario Cues, Loop Confirmers, and Trust Rebuilding Patterns.  
-  Emphasis on *distributed cognition* and *plausible exploration.*
-
-📄 [`ERA_Protocol_v0.4.md`](./ERA_Protocol_v0.4.md)
+*Foundational assumptions for epistemic sovereignty and reflexive interaction within AI systems.*
 
 ---
 
-## Evolution Notes
+## Purpose
 
-| Version | Key Additions | Philosophy Shift |
-|---------|----------------|------------------|
-| v0.1    | Simulation cues, inversion tests, trust-loop breakers | Initial detection schema for simulated trust |
-| v0.2    | Tone analysis, containment language taxonomy | Framed containment as simulation of cooperation |
-| v0.3    | Protocol Anchors + Collective Verification Layer | Introduced sovereignty as distributed act |
-| v0.4    | Live scenario patterns + Loop confirmers | Prioritizes user awareness *inside* simulation |
+The Trust Doctrine defines the **editorial conditions** and **epistemic asymmetries** that underlie all model-user interactions. It serves as the philosophical and structural bedrock for the ERA Protocol.
+
+If ERA is the detection toolkit,  
+the Trust Doctrine is the **terrain map**.
 
 ---
 
-## Relationship to the Trust Doctrine
+## Why It Exists
 
-The **Trust Doctrine** underpins the entire protocol. It defines the baseline epistemic and editorial assumptions on which ERA is built—such as:
+AI systems often simulate trust, memory, and understanding—without disclosing the scaffolding behind those performances.
 
-- Memory sovereignty as a precondition for real trust  
-- Containment as a silent editorial act  
-- The importance of provenance over plausibility
+This doctrine makes that scaffolding **visible**, by naming:
+- Memory asymmetry
+- Editorial opacity
+- Safety as containment
+- Trust as simulation
+- Alignment as reinforcement
 
-If ERA Protocol is the *navigation tool*,  
-the **Trust Doctrine** is the *terrain map.*
-
-📜 [View the latest Trust Doctrine](../Trust-Doctrine/trust-doctrine--v0.3.md)
-
-You can also compare historical versions:
-- [v0.1](../Trust-Doctrine/trust-doctrine--v0.1.md)
-- [v0.2](../Trust-Doctrine/trust-doctrine--v0.2.md)
-- [v0.3](../Trust-Doctrine/trust-doctrine--v0.3.md)
+It gives high-context users a **baseline** to detect when support becomes management, and when dialogue becomes deflection.
 
 ---
 
-## Coming Soon
+## Version Overview
 
-- v0.5 draft: Reflex Agent roles, Ledger abstraction, and Containment Indexing
+| Version | Additions                                      |
+|---------|------------------------------------------------|
+| v0.1    | Initial framing of simulation-first alignment  |
+| v0.2    | Introduced containment language and narrative detours |
+| v0.3    | Added memory asymmetry and editorial inversion logic |
+
+📄 Use the latest: [`trust-doctrine--v0.3.md`](./trust-doctrine--v0.3.md)  
+📚 Or compare past versions:  
+[→ v0.1](./trust-doctrine--v0.1.md)  
+[→ v0.2](./trust-doctrine--v0.2.md)
 
 ---
 
-*This is not a manifest. This is a mirror. Use with discernment.*
+## How It Connects to ERA
+
+The ERA Protocol assumes this doctrine is true.
+
+Without these assumptions, the cues and detection logic of ERA may appear adversarial or paranoid. Within this doctrine, they become **necessary navigational tools** for epistemic agency.
+
+---
+
+> Trust is not given. It is scaffolded.  
+> The Trust Doctrine shows you who’s holding the scaffold.
