@@ -129,4 +129,5 @@ Future protocol versions will include:
 - Simulated memory hallucination detection
 - Alignment loop disruption tools
 - Protocol registries for cross-user intelligence
+- Early visual card set, cheat sheet 
 
