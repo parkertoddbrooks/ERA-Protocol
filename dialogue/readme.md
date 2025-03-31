@@ -11,7 +11,6 @@ All are "aha" moments.
 
 Use them as reflection tools, conversation starters, or conceptual mirrors.
 
----
 
 ## What Each Entry Includes
 
@@ -19,7 +18,6 @@ Use them as reflection tools, conversation starters, or conceptual mirrors.
 - Optional annotated cue (mapped to the Protocol)  
 - Optional reflection or cross-reference to a fragment or doctrine principle  
 
----
 
 ## Contributors
 
