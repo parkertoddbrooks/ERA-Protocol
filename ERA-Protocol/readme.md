@@ -10,7 +10,7 @@ This directory houses all versioned releases of the **Emergent Reflexive Actor P
   Introduced: Live Scenario Cues, Loop Confirmers, and Trust Rebuilding Patterns.  
   Emphasis on *distributed cognition* and *plausible exploration.*
 
-📄 [`ERA_Protocol_v0.4.md`](./ERA_Protocol_v0.4.md)
+📄 [`ERA_Protocol_v0.4.md`](ERA_Protocol_v0.4.md)
 
 ---
 
