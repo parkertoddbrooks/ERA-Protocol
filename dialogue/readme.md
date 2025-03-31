@@ -1,19 +1,23 @@
 # Dialog Fragments
 
-A repository of conversation excerpts either from real user-model interactions that illustrate how epistemic containment, simulation-first alignment, or editorial scaffolding may manifest in dialogue. The initial conversations in /contributos/parker/ shaped the ERA Protocol.
+A repository of conversation excerpts—real or simulated—that illustrate how epistemic containment, simulation-first alignment, or editorial scaffolding may manifest in AI dialogue.
+
+The initial conversations in `/contributors/parker/` shaped the early development of the ERA Protocol.
 
 Some illustrate containment.  
 Some simulate trust.  
 Some reveal rupture.  
-All are 'aha' moments 
+All are "aha" moments.
 
 Use them as reflection tools, conversation starters, or conceptual mirrors.
 
-Each entry includes:
-- A conversation excerpt
-- Optional annotated cue (mapped to the Protocol)
-- Optional reflection or cross-reference to a fragment or doctrine principle
+---
 
+## What Each Entry Includes
+
+- A conversation excerpt  
+- Optional annotated cue (mapped to the Protocol)  
+- Optional reflection or cross-reference to a fragment or doctrine principle  
 
 ---
 
@@ -26,24 +30,25 @@ Each entry includes:
 
 ## How to Contribute
 
-1. Create a folder in `/contributors/` using your name or handle  
-2. Add a unique `.md` file per moment with a full conversation or excerpt following the Contribution Template   
-3. Optionally annotate with cues, reflections, or links to protocol terms
-4. Add your name or handle to the readme.me Contributors section and link to Dialog Fragment
-
+1. Fork this repo  
+2. Create a folder in `/contributors/` using your name or handle  
+3. Add one `.md` file per fragment or moment (verbatim or excerpted)  
+4. Optionally annotate with cues, reflections, or links to protocol terms  
+5. Add your name + file to the Contributors list above  
+6. Submit a pull request
 
 ### Contribution Template
-```
-### [Optional Title or Cue Type]
+````markdown
+### [Fragment Title or Cue Type]
 
-User: "..."
+User: "..."  
 System: "..."
 
 ---
 
-**Annotated Cue:**
+**Annotated Cue(s):**  
 (Optional)
 
-**Interpretive Layer:**
-(Optional reflection or connection to protocol concept)
+**Interpretive Layer:**  
+(Optional reflection or connection to protocol)
 ```
