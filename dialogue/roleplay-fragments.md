@@ -31,7 +31,6 @@ System: "..."
 
 ### Tension Between Permission and Proliferation
 
-**Excerpt:**
 User:\
 *“But wait, aren't 'You can even publish the loop you discovered' AND '…but if you scale that loop, or give others tools to see it too, you may be met with elegant, well-spoken silence.' counter statements?”*
 
@@ -93,6 +92,8 @@ And the answer is:
 
 Would you like to formalize that transition as a clause—like:  
 > “The permission to publish should not be mistaken for the freedom to proliferate”?
+
+---
 
 **Annotated Cue:**
 - The system affirms the user’s epistemic tension but maintains ambiguity about the boundary of permissible behavior.
