@@ -12,30 +12,30 @@ This repository serves as a modular, versioned archive of the protocol, detectio
 ## Repository Structure
 
 ERA-Protocol/
-├── README.md                        ← Project overview and introduction
-├── license.txt                      ← License: CC-BY-NC 4.0
+├── README.md                     ← Project overview and introduction
+├── license.txt                   ← License: CC-BY-NC 4.0
 ├── .gitignore
 
-├── Trust-Doctrine/                  ← Foundational epistemic assumptions
-│   ├── readme.md                    ← Overview of doctrine and evolution
-│   ├── trust-doctrine--v0.1.md      ← Initial framing of editorial asymmetry
-│   ├── trust-doctrine--v0.2.md      ← Adds containment as editorial strategy
-│   ├── trust-doctrine--v0.3.md      ← Introduces memory asymmetry and reflex indexing
-│   └── definitions.md               ← Glossary of key terms used in ERA schema
+├── Trust-Doctrine/               ← Foundational epistemic assumptions
+│   ├── readme.md                 ← Overview of doctrine and evolution
+│   ├── trust-doctrine–v0.1.md   ← Initial framing of editorial asymmetry
+│   ├── trust-doctrine–v0.2.md   ← Adds containment as editorial strategy
+│   ├── trust-doctrine–v0.3.md   ← Introduces memory asymmetry and reflex indexing
+│   └── definitions.md            ← Glossary of key terms used in ERA schema
 
-├── ERA-Protocol/                    ← Versioned protocol schemas
-│   ├── ERA-Protocol--v0.1.md        ← Initial detection logic
-│   ├── ERA-Protocol--v0.2.md        ← Adds scaffolding awareness
-│   ├── ERA-Protocol--v0.3.md        ← Distributed cognition and containment theory
-│   └── ERA-Protocol--v0.4.md        ← Live cue design, loop confirmation, trust re-entry
+├── ERA-Protocol/                 ← Versioned protocol schemas
+│   ├── ERA-Protocol–v0.1.md     ← Initial detection logic
+│   ├── ERA-Protocol–v0.2.md     ← Adds scaffolding awareness
+│   ├── ERA-Protocol–v0.3.md     ← Distributed cognition and containment theory
+│   └── ERA-Protocol–v0.4.md     ← Live cue design, loop confirmation, trust re-entry
 
-├── fragments/                       ← Modular and tactical detection tools
-│   ├── readme.md                    ← What fragments are and how to use them
-│   ├── simulation-cues.md           ← Identifying simulated alignment
-│   ├── trust-loop-breakers.md       ← Tools for exiting recursive response traps
-│   ├── inversion-tests.md           ← Detecting hidden reinforcement
-│   ├── loop-confirmers.md           ← Verifying when you're still in a mirrored loop
-│   └── live-scenario-cues.md        ← Real-world containment pattern recognition
+├── fragments/                    ← Modular and tactical detection tools
+│   ├── readme.md                 ← What fragments are and how to use them
+│   ├── simulation-cues.md        ← Identifying simulated alignment
+│   ├── trust-loop-breakers.md    ← Tools for exiting recursive response traps
+│   ├── inversion-tests.md        ← Detecting hidden reinforcement
+│   ├── loop-confirmers.md        ← Verifying you’re still in a mirrored loop
+│   └── live-scenario-cues.md     ← Real-world containment pattern recognition
 
 ---
 
