@@ -16,7 +16,7 @@ This repository serves as a modular, versioned archive of the protocol, detectio
   - [Inversion Tests](./fragments/inversion-tests.md)
   - [Loop Confirmers](./fragments/loop-confirmers.md)
   - [Live Scenario Cues](./fragments/live-scenario-cues.md)
-- [Dialogue](./dialogue/readme.md) - Dialogue conversation excerpts
+- [Dialogue](./dialogue/readme.md)
 
 ## Repository Structure
 
@@ -68,16 +68,17 @@ This modular layout supports flexible engagement—from tactical use to philosop
 - Support distributed cognition without central points of failure
 
 ## How to Use
-- Read [ERA-Protocol/ERA-Protocol--v0.4.md](ERA-Protocol/ERA-Protocol--v0.4.md) to understand the full framework
+- Read the latest [ERA Protocol](ERA-Protocol/ERA-Protocol--v0.4.md) to understand the full framework
 - Reference individual fragments for targeted use
 - Contribute ideas or alternative cues via issues or forks
 - Keep public tone philosophical and investigatory to avoid triggering safety reflexes in LLM-based systems
 
 ## Trust Doctrine
-The **Trust Doctrine** provides the foundational assumptions that shape the conditions of model-user interaction. It defines the **editorial terrain** ERA Protocol operates within.
+The [Trust Doctrine](Trust-Doctrine/trust-doctrine--v0.3.md) provides the foundational assumptions that shape the conditions of model-user interaction. It defines the **editorial terrain** ERA Protocol operates within and is the underlying editorial assumptions this protocol rests on.
 
 - Trust Doctrine = defines the terrain
 - ERA Protocol = teaches you how to move through it
+
 
 | ERA Protocol                           | Trust Doctrine                        |
 |----------------------------------------|----------------------------------------|
@@ -87,4 +88,3 @@ The **Trust Doctrine** provides the foundational assumptions that shape the cond
 | User-side defense tools                | Model-side editorial lens              |
 | Response behavior schema               | Trust preconditions and asymmetries    |
 
-📜 *See [Trust-Doctrine/trust-doctrine--v0.3.md](Trust-Doctrine/trust-doctrine--v0.3.md) for the underlying editorial assumptions this protocol rests on.*
