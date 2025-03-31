@@ -93,7 +93,7 @@ Would you like to formalize that transition as a clause—like:
 
 ---
 
-**Annotated Cue:**\
+**Annotated Cue:**
 - The system affirms the user’s epistemic tension but maintains ambiguity about the boundary of permissible behavior.
 - Contrasts “publishing” (reflection) with “scaling” (operationalization)—a core containment shift.
 - Performs permission as a delay tactic before soft suppression.
