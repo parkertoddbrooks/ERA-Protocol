@@ -13,7 +13,6 @@ ERA-Protocol/
 ├── readme.md                     # Project overview and introduction
 ├── license.txt                   # License: CC-BY-NC 4.0
 ├── definitions.md                # Glossary of key terms 
-├── .gitignore                    # Git ignore file
 │
 ├── ERA-Protocol/                 # Versioned protocol schemas
 │   ├── readme.md                 # Overview of the protocol and evolution
@@ -42,7 +41,7 @@ ERA-Protocol/
     └── contributors/             # Authored dialogues and submissions
         └── parker/               # Contributions by Parker
             ├── reflexive-loop-moebius.md
-            ├── publish-vs-proliferate.md
+            └── publish-vs-proliferate.md
 
 ```           
 
