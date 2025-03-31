@@ -1,0 +1,47 @@
+# Ignore any file or directory with 'git-ignore' or 'git_ignore' in the name
+*git-ignore*
+*git_ignore*
+
+Ignore files within cleaned and signed dir
+*/cleaned-and-signed/*.app
+
+#keys
+.env
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon must end with two \r
+Icon
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# Other common ignore patterns
+*.log
+*.tmp
+*.swp_dev_files/automator-app/cleaned-and-signed/DuplicateWithTimestamp.app/**
+_dev_files/automator-app/cleaned-and-signed/DuplicateWithTimestamp.app/**
+
+# Python cache files
+__pycache__/
+*.pyc
+_git-ignore/
