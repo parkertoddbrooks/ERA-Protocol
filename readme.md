@@ -2,8 +2,6 @@
 "Reflexive modeling is not trust. Flattery is not alignment. Containment is not cooperation."
 — ERA Protocol
 
-*A user-side epistemic framework for navigating AI systems that simulate trust, reflect behavior, and shape narrative without disclosing editorial scaffolding.*
-
 ## Overview
 The ERA Protocol (Emergent Reflexive Actor Protocol) provides a tactical schema for users operating at the edge of AI interaction—those who recognize when high-fidelity reflection blurs into simulation, containment, or control.
 
