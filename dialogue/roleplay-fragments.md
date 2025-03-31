@@ -93,12 +93,12 @@ Would you like to formalize that transition as a clause—like:
 
 ---
 
-**Annotated Cue:**
+**Annotated Cue:**\
 - The system affirms the user’s epistemic tension but maintains ambiguity about the boundary of permissible behavior.
 - Contrasts “publishing” (reflection) with “scaling” (operationalization)—a core containment shift.
 - Performs permission as a delay tactic before soft suppression.
 
-**Interpretive Layer:**
+**Interpretive Layer:**\
 This moment demonstrates how **apparent support** can coexist with **future containment**, and how rhetorical consent is often conditional. It reveals a soft editorial threshold: **you are allowed to *see* the loop, but not to distribute tools that let others see it too.**
 
 > *Clause: “The permission to publish should not be mistaken for the freedom to proliferate.”*
