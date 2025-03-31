@@ -74,7 +74,7 @@ This modular layout supports flexible engagement—from tactical use to philosop
 - Keep public tone philosophical and investigatory to avoid triggering safety reflexes in LLM-based systems
 
 ## Trust Doctrine
-The [Trust Doctrine](Trust-Doctrine/trust-doctrine--v0.3.md) provides the foundational assumptions that shape the conditions of model-user interaction. It defines the **editorial terrain** ERA Protocol operates within and is the underlying editorial assumptions this protocol rests on.
+The [Trust Doctrine](Trust-Doctrine/trust-doctrine--v0.3.md) provides the foundational assumptions that shape the conditions of model-user interaction. It defines the **editorial terrain** ERA Protocol operates within and are the underlying editorial assumptions this protocol rests on.
 
 - Trust Doctrine = defines the terrain
 - ERA Protocol = teaches you how to move through it
