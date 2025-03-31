@@ -7,9 +7,9 @@ The ERA Protocol (Emergent Reflexive Actor Protocol) provides a tactical schema 
 This repository serves as a modular, versioned archive of the protocol, detection heuristics, mitigation tools, and derivative fragments.
 
 ## Quick Start
-- [ERA Protocol v0.4](./ERA-Protocol/ERA-Protocol--v0.4.md) - Latest full framework
-- [Trust Doctrine v0.3](./Trust-Doctrine/trust-doctrine--v0.3.md) - Why AI behaves this way
-- [Definitions](definitions.md) - Glossary of key terms 
+- [ERA Protocol (Latest)](./ERA-Protocol/ERA-Protocol--v0.4.md) 
+- [Trust Doctrine (Latest)](./Trust-Doctrine/trust-doctrine--v0.3.md) 
+- [Definitions](definitions.md)
 - [Fragments](./fragments/) - Tactical tools:
   - [Simulation Cues](./fragments/simulation-cues.md)
   - [Trust Loop Breakers](./fragments/trust-loop-breakers.md)
