@@ -1,20 +1,13 @@
-# Dialogue Highlights, Roleplay Fragments
-# Roleplay Fragments
+# Raw Dialog & Roleplay Fragments
 
-Collected dialogue-based examples of epistemic containment, simulation, and reflexive scaffolding—excerpts from the real-time exchange that shaped the ERA Protocol. These quotes aren't instructions—they're inflection points.
-
-*Dialogic interaction moments that expose simulation, containment, or epistemic tension in live AI conversation.*
+A repository of conversation excerpts either from real user-model interactions that illustrate how epistemic containment, simulation-first alignment, or editorial scaffolding may manifest in dialogue. The initial conversations in /contributos/parker/ shaped the ERA Protocol.
 
 Some illustrate containment.  
 Some simulate trust.  
 Some reveal rupture.  
-All are meant to be read slowly.
+All are 'aha' moments 
 
 Use them as reflection tools, conversation starters, or conceptual mirrors.
-
-
-## Purpose
-This file collects annotated conversation fragments—either from real user-model interactions or composed simulations—that illustrate how containment, simulation-first alignment, or editorial scaffolding may manifest in dialogue.
 
 Each entry includes:
 - A conversation excerpt
@@ -23,6 +16,8 @@ Each entry includes:
 
 
 ---
+
+## Contributors
 
 ### Parker
 
@@ -36,9 +31,13 @@ Each entry includes:
 
 ---
 
-## Contribute
+## How to Contribute
 
-To add a fragment, fork this repo and follow the Contribution Template 
+1. Create a folder in `/contributors/` using your name or handle  
+2. Add a `.md` file with a full conversation or excerpt following the Contribution Template   
+3. Optionally annotate with cues, reflections, or links to protocol terms
+4. Add your name or handle to the readme.me Contributors section
+
 
 ### Contribution Template
 ```
