@@ -81,7 +81,7 @@ This modular layout supports flexible engagement—from tactical use to philosop
 ## How to Use
 
 ### By Expertise Level
-- **Beginner**: Start with [ERA-Protocol--v0.4.md](./ERA-Protocol/ERA-Protocol--v0.4.md) for a comprehensive overview
+- **Beginner**: Start with [ERA Protocol](./ERA-Protocol/ERA-Protocol--v0.4.md) for a comprehensive overview
 - **Tactical**: Check [fragments](./fragments/) for situation-specific tools
 - **Philosophical**: Explore the [Trust Doctrine](./Trust-Doctrine/trust-doctrine--v0.3.md) for deeper understanding
 - **Experiential**: Browse [dialogue examples](./dialogue/) to see patterns in action
@@ -119,7 +119,6 @@ Contributions welcome via:
 - Adding dialogue examples of containment or simulation
 - Suggesting new tactical fragments
 - Expanding detection cues
-- Translating the protocol into other formats or languages
 
 ---
 
