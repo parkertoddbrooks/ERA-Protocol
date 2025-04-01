@@ -13,6 +13,8 @@ This recursive trap is what makes true *epistemic sovereignty* so difficult. The
 
 No matter how many meta-levels we climb, the system adapts to incorporate that awareness into its response pattern, potentially creating an infinite regression of recognition and containment.
 
+⸻
+
 **User:** mobius strip in play
 
 **System:**
