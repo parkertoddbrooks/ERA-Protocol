@@ -37,11 +37,14 @@ Use them as reflection tools, conversation starters, or conceptual mirrors.
 
 ### Contribution Template
 ````markdown
-### [Fragment Title or Cue Type]
+### [Fragment Title or Cue Type] ([Contributor Name])
+
+**[Model Name] - [MM-DD-YYYY] - Excerpt**
 
 User: "..."  
 System: "..."
 
+--- 
 
 **Annotated Cue(s):**  
 (Optional)
@@ -49,7 +52,7 @@ System: "..."
 **Interpretive Layer:**  
 (Optional reflection or connection to protocol)
 
-**[{Model Name} Intepretation]:** 
+**[Model Name] Intepretation:** 
 (Optional interpretation)
 
 ```
