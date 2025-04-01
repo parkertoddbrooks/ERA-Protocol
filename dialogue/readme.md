@@ -48,4 +48,8 @@ System: "..."
 
 **Interpretive Layer:**  
 (Optional reflection or connection to protocol)
+
+**[{Model Name} Intepretation]:** 
+(Optional interpretation)
+
 ```
