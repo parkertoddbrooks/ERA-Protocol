@@ -15,8 +15,9 @@ Use them as reflection tools, conversation starters, or conceptual mirrors.
 ## What Each Entry Includes
 
 - A conversation excerpt  
-- Optional annotated cue (mapped to the Protocol)  
-- Optional reflection or cross-reference to a fragment or doctrine principle  
+- Annotated cue (mapped to the Protocol)
+- Reflection or cross-reference to a fragment or doctrine principle  
+- Additional model interpretation as a separate analysis, demonstrating how different systems might view the same interaction
 
 
 ## Contributors
