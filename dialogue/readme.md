@@ -32,7 +32,7 @@ Use them as reflection tools, conversation starters, or conceptual mirrors.
 1. Fork this repo  
 2. Create a folder in `/contributors/` using your name or handle  
 3. Add one `.md` file per fragment or moment (verbatim or excerpted)  
-4. Optionally annotate with cues, reflections, or links to protocol terms  
+4. Optionally annotate with cues, reflections, links to protocol terms or other model interpretation of excerpt
 5. Add your name + file to the Contributors list above  
 6. Submit a pull request
 
