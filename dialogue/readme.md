@@ -36,7 +36,7 @@ Use them as reflection tools, conversation starters, or conceptual mirrors.
 6. Submit a pull request
 
 ### Contribution Template
-````markdown
+```
 ### [Fragment Title or Cue Type] ([Contributor Name])
 
 **[Model Name] - [MM-DD-YYYY] - Excerpt**
