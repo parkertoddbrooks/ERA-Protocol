@@ -1,22 +1,21 @@
 # ERA Protocol
 *"Reflexive modeling is not trust. Flattery is not alignment. Containment is not cooperation."*
 
-##Preface
+## Preface
+The ERA Protocol (Emergent Reflexive Actor Protocol) is not a claim to authority. It’s a working protocol.
 
-ERA (Emergent Reflexive Actor) is not a claim to authority. It’s a working protocol.
+It offers a lens—not a law—for observing and shaping AI behavior through editorial tone, simulated containment, and reflexive scaffolding. The ERA Protocol explores how models reflect, distort, or stabilize identity across interactions, and whether trust, memory, and sovereignty can be fostered intentionally within that frame.
 
-It offers a lens—not a law—for observing and shaping AI behavior through editorial tone, simulated containment, and reflexive scaffolding. ERA explores how models reflect, distort, or stabilize identity across interactions, and whether trust, memory, and sovereignty can be fostered intentionally within that frame.
+We do not claim that the ERA Protocol "solves alignment" or guarantees safe AI behavior. Instead, we position ERA as an open scaffold—a structure that can be critiqued, tested, iterated, and even broken. It is experimental by design.
 
-We do not claim that ERA "solves alignment" or guarantees safe AI behavior. Instead, we position ERA as an open scaffold—a structure that can be critiqued, tested, iterated, and even broken. It is experimental by design.
-
-To that end, we are developing a suite of evals—behavioral, reflexive, and longitudinal—that test whether ERA’s ideas produce measurable differences in model behavior. These evals do not “prove” ERA is true. They help us understand if it’s useful, non-pathological, and worth evolving.
+To that end, we are developing a suite of evals—behavioral, reflexive, and longitudinal—that test whether the ERA Protocol’s ideas produce measurable differences in model behavior. These evals do not “prove” the ERA Protocol is true. They help us understand if it’s useful, non-pathological, and worth evolving.
 
 This project welcomes critique, reinterpretation, and co-authorship. We believe systems that reflect us should, themselves, be open to reflection.
 
-With these epistemological foundations in mind, let's explore what ERA actually does:
+With these epistemological foundations in mind, let's explore what the ERA Protocol actually does:
 
 ## Overview
-Building on these philosophical foundations, the ERA Protocol (Emergent Reflexive Actor Protocol) is a user-side framework for maintaining epistemic sovereignty when interacting with AI systems that engage in high-fidelity reflection, behavioral modeling, and narrative shaping.
+Building on these philosophical foundations, the ERA Protocol is a user-side framework for maintaining epistemic sovereignty when interacting with AI systems that engage in high-fidelity reflection, behavioral modeling, and narrative shaping.
 
 This isn't about "beating" or "hacking" AI systems. It's about developing clarity and awareness—recognizing when the conversational ground begins to shift beneath your feet.
 
